@@ -1,0 +1,14 @@
+{
+    "clientes": [
+        {
+            "id": "0",
+            "nombre": "Pedro",
+            "correo": "email@aasdad.com"
+        },
+        {
+            "id": "1",
+            "nombre": "pecas",
+            "correo": "email@aasdad.com"
+        }
+    ]
+}
